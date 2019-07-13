@@ -12,5 +12,7 @@ public class Demo {
         System.out.println("初始化");
         System.out.println("另一个进行更改");
         System.out.println("我进行了更改");
+        System.out.println("另一个进行更改");
+         System.out.println("另一个进行二次更改");
     }
 }
