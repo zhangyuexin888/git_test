@@ -10,6 +10,7 @@ package cn.itcast;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("初始化");
-        System.out.println("另一个进行更改")
+        System.out.println("另一个进行更改");
+        System.out.println("我进行了更改");
     }
 }
